@@ -79,24 +79,6 @@ The experiment is divided into four tasks:
 - Save the trained Generator model.
 - Save generated images.
 
-## How to Run
-
-1. Open Google Colab.
-2. Create a new Python notebook.
-3. Import the required libraries.
-4. Execute Task A, Task B, Task C and Task D sequentially.
-5. Observe the training losses and generated images.
-6. Save the notebook and upload it to GitHub.
-
-## Expected Output
-
-- Display of original MNIST images.
-- Generator and Discriminator model summaries.
-- Training progress with Generator and Discriminator losses.
-- Graph showing GAN training losses.
-- Synthetic handwritten digit images.
-- Comparison of original and generated images.
-- Saved Generator model and generated image files.
 
 ## Applications of GANs
 - Medical image generation.
